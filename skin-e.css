@@ -1,0 +1,99 @@
+
+body
+{ background-color: #e4e8e1; }
+
+#background
+{ background-image: url(/images/weblight11/skin-e/baggrund.png); }
+
+/* streg under link */
+.headline ul li a:hover,
+.data-box .holder a,
+.spot .holder a,
+.spot-container .holder a
+{ border-bottom:1px #65e200 solid; }
+
+/* visited link */
+.data-box .holder a:visited,
+.spot .holder a:visited,
+.spot-container .holder a:visited
+{ /*color:#f69635;*/ }
+
+/* tykke tørresnor overr overskrift */ 
+.image-spot,
+.aside  .sidenav,
+#content #article,
+.spot, .spot-container,
+.aside .spot
+{ background:url("/images/weblight11/skin-e/ruler-top.png") no-repeat scroll 0 0 transparent; }
+
+/* tynde tørresnor under overskrift */ 
+.bottom-ruler,
+.spot .heading h1,.spot .heading h2,
+.spot .border,
+.spot-container h1, .spot-container h2,
+#content .headline,
+.aside .sec-nav
+{ background: url(/images/weblight11/skin-e/ruler-bottom.png) no-repeat 0 100%; }
+
+/* top og footer streg */
+#top-branding-streg-color,
+#footer .holder	
+{ background-image: url(/images/weblight11/skin-e/top-branding-streg.png);}
+
+
+/* top navigation */
+.navigation ul li.active a, 
+.navigation ul li a:hover 
+{ background-image: url(/images/weblight11/skin-e/bg-navigation-active.png); }
+
+.navigation ul li.active a span,
+.navigation ul li a:hover span
+{ background-image: url(/images/weblight11/skin-e/bg-navigation-active-right.png); }
+
+.navigation
+{ background-image: url(/images/weblight11/skin-e/bg-navigation.png); }
+
+.navigation ul{
+	margin:0 0 0 0;
+	padding:0;
+	list-style:none;
+	float:left;
+	font:bold 14px Arial;
+	/*color:#003663;*/
+	display:inline;
+}
+
+/* breadcrumb og footer */
+#footer address, footer address a,
+.breadcrumbs, .breadcrumbs li, .breadcrumbs li a
+{ color:#666; z-index: 100; }
+
+.breadcrumbs li
+{ background: url(/images/weblight11/skin-e/breadcrumb-separator.png) no-repeat 100% 50%; }
+
+/* leftmenu */
+.aside .sidenav li a:visited
+{ color:#999; }
+
+.aside .sidenav li a.active, .aside .sidenav li a:hover
+{ color:#65e200; background: url(/images/weblight11/skin-e/bg-arrow.png) no-repeat 0 2px;}
+
+/* billedslider */
+.paginator li a
+{ background-image: url(/images/weblight11/skin-e/paging-slider.png); }
+
+/* transparent spot */
+.StorSpotTekst { color: #439600; }
+
+/* bottom branding streg */
+.bottomrulercontent, .bottomruler 
+{ background: url(/images/weblight11/skin-e/ruler-bottom.png) no-repeat; }
+
+/* todo:picturespot indsæt næste linier */
+/*.picturespot h1
+{ background:url("/images/weblight11/skin-e/ruler-top.png") no-repeat scroll 0 0 transparent; }
+.picturespot .holder,
+#sidebar .picturespot .holder 
+{ background:url("/images/weblight11/skin-e/ruler-bottom.png") no-repeat scroll 0 0 transparent; }*/
+
+.holder .mailboxlinkid a { text-decoration: none; border: none;border: none; }

@@ -1,0 +1,168 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-language" content="da" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><meta name="Updated" content="2014.04.17" /><meta name="robots" content="index, follow, noodp" /><meta name="author" content="Odense Kommune" /><meta name="ID" content="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" /><meta name="description" content="Odense Kommunes hjemmeside for borgere, erhvervsliv, turister og pressen. Her finder du bl.a. selvbetjeningsløsninger, kontaktinformationer og oplysninger om kultur og fritidstilbud i Odense." /><meta name="title" content="Forside" /><meta name="Keywords" content="Forside" /><meta name="site" id="site" content="www.odense.dk" /><meta name="category" id="category" content="Odense Kommune" /><title>Odense Kommune - Forside</title><link media="screen" rel="stylesheet" type="text/css" href="/css/web11/all.css?ver=23012014" /><link media="print" rel="stylesheet" type="text/css" href="/css/web11/print.css" /><link media="screen" rel="stylesheet" type="text/css" href="/css/web11/Business/business.css" /><link media="screen" rel="stylesheet" type="text/css" href="/css/Publish/Publish.css" /><!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/web11/lt7.css" media="screen"/><![endif]--><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"><!--for IE--></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"><!--for IE--></script><script src="/scripts/web11/jquery.highlight-3.js" type="text/javascript"></script><script src="/scripts/web11/jquery.getParams.js" type="text/javascript"></script><script src="/scripts/web11/jquery.tooltip.js" type="text/javascript"></script><script type="text/javascript" src="/scripts/web11/jcarousellite_1.0.1.min.js"><!--for IE--></script><script type="text/javascript" src="/scripts/web11/main.js?ver=19022014"><!--for IE--></script><script type="text/javascript" src="/scripts/global.js"><!--for IE--></script><script type="text/javascript" src="/scripts/web11/Business/BusinessOxygenImgSlider-0.1.js"><!--for IE--></script><link rel="alternate" type="application/rss+xml" title="Nyheder fra Odense kommune" href="//www.odense.dk/feed.aspx" /><link rel="shortcut icon" href="/favicon.ico" />
+    <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-3030685-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+        </script><script src="/scripts/taglinks-ga.js" type="text/javascript"></script>
+    
+    
+</head>
+<body>
+    <a href="#maincontent" class="skiptomaincontent">Spring til indhold</a>
+	<!-- wrapper -->
+	<div id="wrapper">
+	    <div class="translate-box"><div id="translate-close">Luk</div><div id="google_translate_element"><!--for ie--></div><script type="text/javascript"><!--
+                        //var start;  //debug
+                        var protocol = window.location.protocol;
+
+                        function doTranslate() {
+                        //start = new Date().getTime(); //debug
+                        document.getElementById("google_translate_element").innerHTML = "Vent...";
+                        var element = document.createElement("script");
+                        element.type = "text/javascript";
+                        element.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+                        document.body.appendChild(element);
+                        }
+
+                        function googleTranslateElementInit() {
+                        //var end = new Date().getTime(); //debug
+                        //var time = end - start; //debug
+                        //document.getElementById("google_translate_element").innerHTML = "Loadtid: " + time + "ms"; //debug
+                        document.getElementById("google_translate_element").innerHTML = "";
+                        new google.translate.TranslateElement({pageLanguage: 'da'}, 'google_translate_element');
+                        }
+
+                        //alert("cookie: " + GetCookie("googtrans"));
+
+
+                    --></script></div>
+		<a href="/"><img src="/images/web11/logo.gif" class="hidden" alt="Gå til forsiden" width="177" height="94" /></a>
+		<!-- main container -->
+		<div class="main-container">
+			<!-- main -->
+			<div id="main">
+                <!--googleoff: snippet-->
+                
+
+<div id="header">
+	<div class="holder">
+	    <div class="headline"><span class="logo" id="reset"><a href="/">Odense Kommune</a></span><ul class="tools-list"><li><a id="translate" href="#" title="translate" onclick="doTranslate()">TRANSLATE</a></li></ul><ul><li class="&#xD;&#xA;                    cookienavigation&#xD;&#xA;                  "><a disable-web-editing="true" href="/om hjemmesiden/cookie og privatlivspolitik"><div class="cookienavigationimage"><img src="~/media/BMF/Portal/iconsmall.ashx" alt="Cookie politik på odense.dk" width="14" height="13" /></div><div>Cookies og privatlivspolitik</div></a></li><li><a disable-web-editing="true" href="/topmenu/kommunen/job">Job</a></li><li><a disable-web-editing="true" href="/presse">Presse</a></li><li><a disable-web-editing="true" title="Kontakt Odense Kommune" href="/topmenu/kommunen/kontakt til kommunen">Kontakt</a></li><li><a disable-web-editing="true" title="Kontakt kommunikation" href="/om hjemmesiden">Om hjemmesiden</a></li><li><a disable-web-editing="true" href="http://www.odense.dk/welcome">English</a></li></ul><div class="headerNemLogin"><ul class="headerNemLoginUL"><li><span></span></li><li><a disable-web-editing="true" href="/topmenu/selvbetjening/digital post til borgere/dokboks">DigitalPost</a></li><li><a href="/?nemlogin=Login">Login</a></li></ul></div></div>
+		<!-- main navigation -->
+        <div class="navigation"><ul><li><a href="/topmenu/borger" title="Borger"><span>Borger</span></a></li><li><a href="/topmenu/erhverv" title="Erhverv"><span>Erhverv</span></a></li><li><a href="/topmenu/selvbetjening" title="Selvbetjening"><span>Selvbetjening</span></a></li><li><a href="/topmenu/kommunen" title="Kommunen"><span>Kommunen</span></a></li></ul></div>
+        
+		<!-- service box -->
+		<div class="service-box">
+			<!-- breadcrumbs -->
+			<div id="breadcrumb"><!----></div>
+			<!-- search form -->
+			<form action="#" class="search-form">
+				<input type="text" title="Søg på Odense Kommune" class="text watermarkbox" id="search-query" value="Søg" onkeypress="checkEnter(event,'query');"/>
+				<input type="button" class="btn-search" value="Søg på Odense Kommune" name="query" id="query" onclick="OxySearch('/sogning/google',$('#search-query').val(),'default_collection','odense','odense','xml_no_dtd');" />
+				<label id="lblSearchQuery" for="search-query">Søg på Odense Kommune</label>
+			</form>
+			<!-- wai list -->
+			<ul class="aaa">
+				<li><a href="#" onclick="window.open('http://www.adgangforalle.dk/','_blank','');" alt="Få teksten læst højt, adgang for alle"><span>LÆS HØJT</span></a></li>
+				<li><a href="#" id="decrease"><span>A</span></a></li>
+				<li><a href="#" id="increase"><span>A</span></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+    
+    
+        
+
+                <!--googleon: snippet-->	
+                <form method="post" action="/" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE5Njc1MDU5OWRkXXQxfLv9e1hZhQUCkAkiM1Xzp7+uvxUNGmzCCxXkz8g=" />
+</div>
+
+                 
+<!-- two columns -->
+<div class="twocolumns">
+	<!-- content -->
+	<div id="content">
+		<!-- spot -->
+		<div class="white spot"><div class="wrap"><div class="frame"><div class="heading"><h1>Kom let til ...</h1></div><div class="holder shortcuts"><ul><li class="shortcut-container"><a style="cursor:pointer;" href="" onclick="return false;">Børn, skole og studie</a><ul class="drop" style="display:none;"><li><a href="/home/Topmenu/Borger/Boern" title="">Alt til børnefamilier</a></li><li><a href="/home/Topmenu/Borger/Boern/Pladsanvisning" title="">Pladsanvisning</a></li><li><a disable-web-editing="true" href="http://odense.dk/topmenu/borger/boern/foraeldrebetalingen">Forældrebetaling</a></li><li><a disable-web-editing="true" href="http://mitbarn.odense.dk">mitBarn</a></li><li><a href="/home/Topmenu/Borger/Uddannelse/Ungdomsskoler" title="">Ungdomsskoler</a></li><li><a href="/home/Topmenu/Borger/Boern/Dagtilbud til boern" title="">Dagtilbud til børn</a></li><li><a href="/home/Topmenu/Borger/Uddannelse/Folkeskolen" title="">Folkeskolen</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/Familieydelser.aspx" title="">Børnepenge</a></li><li><a href="/home/Topmenu/Borger/Studerende" title="">Studiejobs, studiebolig og uddannelse</a></li><li><a href="/home/Topmenu/Borger/Boern/Sundhed" title="">Sundhed</a></li></ul></li><li class="shortcut-container"><a style="cursor:pointer;" href="" onclick="return false;">Erhverv, byggeri og bolig</a><ul class="drop" style="display:none;"><li><a href="/home/Topmenu/Borger/ByMiljoe/Bolig og byggeri/Byggeri/Byggesager" title="">Byggetilladelse, småbygninger m.m.</a></li><li><a href="/home/Topmenu/Erhverv/Invester i Odense.aspx" title="">Invester i Odense</a></li><li><a disable-web-editing="true" title="Link til byggegrunde til salg" href="http://drift.kortinfo.net/Map.aspx?Site=Odense&amp;Page=grundsalg" target="_blank">Byggegrunde</a></li><li><a href="/home/Topmenu/Erhverv/Erhvervskontakt" title="">ErhvervsKontakten</a></li><li><a href="/home/Topmenu/Erhverv/Virksomhed i Odense/Virksomhedsudvikling" title="">Rådgivning og vejledning</a></li><li><a href="/home/Topmenu/Erhverv/Miljoe/Erhvervsaffald" title="">Erhvervsaffald</a></li><li><a href="/home/Topmenu/Borger/ByMiljoe/Byudvikling og trafik/Strategier og planer/Lokalplaner" title="">Lokalplaner</a></li><li><a disable-web-editing="true" href="http://www.odense.dk/kommuneplan" target="_blank">Kommuneplan</a></li><li><a href="/home/Topmenu/Erhverv/Udbud" title="">Udbud</a></li><li><a href="/home/Topmenu/Erhverv/Virksomhed i Odense/Oekonomi/Barselsdagpenge" title="">Sygedagpenge</a></li><li><a href="/home/Topmenu/Erhverv/Byggeri grunde og lokaler/Erhvervslokaleroglejemaal.aspx" title="">Erhvervsejendomme og erhvervslokaler</a></li></ul></li><li class="shortcut-container"><a style="cursor:pointer;" href="" onclick="return false;">Kultur, fritid, leg og natur</a><ul class="drop" style="display:none;"><li><a disable-web-editing="true" title="Link til oplev.odense.dk - din indgang til oplevelser i Odense" href="http://www.oplev.odense.dk/" target="_blank">Oplev Odense - Find koncerter, arrangementer, guides til byliv m.m.</a></li><li><a disable-web-editing="true" title="Link til Odense Centralbiblioteks hjemmeside" href="http://www.odensebib.dk/forside" target="_blank">Biblioteker</a></li><li><a href="/home/Topmenu/Borger/KulturFritid/Museer-og-teatre.aspx" title="">Museer og teatre</a></li><li><a disable-web-editing="true" title="Link til mere om svømmehaller" href="http://www.odense.dk/web/idraetsparken/Svoemmehaller.aspx" target="_blank">Svømmehaller</a></li><li><a href="/home/Topmenu/Borger/KulturFritid/Dinfritid" title="">Foreninger, aftenskoler og klubber</a></li><li><a href="/home/Topmenu/Borger/KulturFritid.aspx" title="">Kultur og fritid</a></li><li><a href="/home/Topmenu/Borger/ByMiljoe/Natur Miljoe Baeredygtighed/Parker og natur/Udeliv.aspx" title="">Oplevelser i naturen</a></li></ul></li><li class="shortcut-container"><a style="cursor:pointer;" href="" onclick="return false;">Pas, kørekort, læge og flytning</a><ul class="drop" style="display:none;"><li><a href="/home/Topmenu/Borger/Borgerservice/Folkeregister/Flytning" title="">Flytning</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/Folkeregister" title="">Folkeregister</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/Korekort" title="">Kørekort</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/Sygesikring/Skift laege" title="">Lægeskift</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/pas.aspx" title="">Pas</a></li><li><a href="/home/Topmenu/Borger/Borgerservice/Sygesikring" title="">Sundhedskort og sygesikring</a></li></ul></li><li class="shortcut-container"><a style="cursor:pointer;" href="" onclick="return false;">Dagpenge, boligstøtte og pension</a><ul class="drop" style="display:none;"><li><a href="/home/Topmenu/Borger/Borgerservice/Boligstotte" title="">Boligstøtte</a></li><li><a href="/home/Topmenu/Borger/Voksne/Ledighed/dagpenge" title="">Dagpenge</a></li><li><a href="/home/Topmenu/Borger/Voksne/Okonomisk hjaelp og stoette/Pension" title="">Pension</a></li></ul></li></ul></div></div></div></div><img src="~/media/DDA333A961864399B1D1A32E2D6F8AE1.ashx?mh=155&amp;mw=194" alt="" class="png alignright" />
+		<!-- float rule -->
+		<div class="float-rule">
+			<!-- spot -->
+			<div class="spot gallery"><div class="heading"><h1>Det sker i Odense<!----></h1><ul class="paginator"><!--comment--><li class="active"><a href="#" title="Billede 1 af 6"> </a></li><li><a href="#" title="Billede 2 af 6"> </a></li><li><a href="#" title="Billede 3 af 6"> </a></li><li><a href="#" title="Billede 4 af 6"> </a></li><li><a href="#" title="Billede 5 af 6"> </a></li><li><a href="#" title="Billede 6 af 6"> </a></li></ul></div><div class="carouselcontainer"><div class="carousel"><a href="#" class="link-prev" title="Forrige">prev</a><ul class="carouselul"><!--comment--><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="http://kalender.oplev.odense.dk/perl/stedlist/type-odense5/version-udstilling?StedType=Museum&amp;Area=Odense-storkommune&amp;Godkendt=Alle" target="_blank"><img src="~/media/Billedslider/Forsiden/bagrund museum 197x117.ashx?mw=197&amp;h=117&amp;as=0" alt="Alle tiders oplevelse" /><!--comment--></a><!--comment--><div class="left"><a style="text-decoration:none;" class="carousel-link" href="http://kalender.oplev.odense.dk/perl/stedlist/type-odense5/version-udstilling?StedType=Museum&amp;Area=Odense-storkommune&amp;Godkendt=Alle" target="_blank"><strong>Alle tiders oplevelse<!--comment--></strong><span>Tag på museum i Odense<!--comment--></span></a></div></li><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="/subsites/trafikiodense/topmenu/trafik i odense/ruteplanlaegger"><img src="~/media/Billedslider/Forsiden/Billedslider_ruteplanlaegger.ashx?mw=197&amp;h=117&amp;as=0" alt="Find vej i fremtidens Odense" /><!--comment--></a><!--comment--><div><a style="text-decoration:none;" class="carousel-link" href="/subsites/trafikiodense/topmenu/trafik i odense/ruteplanlaegger"><strong>Find vej i fremtidens Odense<!--comment--></strong><span>Ruteplanlæggeren viser ruter for bilister og cyklister - både i dag og fremadrettet - efterhånden som byen forandres. <!--comment--></span></a></div></li><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="/subsites/fragadetilby/topmenu/arkaeologi/rundvisninger og arrangementer"><img src="~/media/Billedslider/Forsiden/Omvisning udgravning 197x117.ashx?mw=197&amp;h=117&amp;as=0" alt="Besøg de arkæologiske udgravninger." /><!--comment--></a><!--comment--><div class="right"><a style="text-decoration:none;" class="carousel-link" href="/subsites/fragadetilby/topmenu/arkaeologi/rundvisninger og arrangementer"><strong>Besøg de arkæologiske udgravninger.<!--comment--></strong><span>Kom med på en rundvisning, lige midt i Odense <!--comment--></span></a></div></li><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="/topmenu/selvbetjening/digital post til borgere/kurser i digital post"><img src="~/media/Billedslider/Forsiden/Digital-Postkasse sidste nye.ashx?mw=197&amp;h=117&amp;as=0" alt="Kurser i Digital Post" /><!--comment--></a><!--comment--><div><a style="text-decoration:none;" class="carousel-link" href="/topmenu/selvbetjening/digital post til borgere/kurser i digital post"><strong>Kurser i Digital Post<!--comment--></strong><span>Kom og få undervisning i, hvordan du bruger din digitale postkasse.<!--comment--></span></a></div></li><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="/subsites3/korsloekke/topmenu/klubber/blaa mandag" target="_blank"><img src="~/media/Billedslider/Forsiden/blaa_mandag 197x117.ashx?mw=197&amp;h=117&amp;as=0" alt="Blå mandag 2014 står for døren" /><!--comment--></a><!--comment--><div><a style="text-decoration:none;" class="carousel-link" href="/subsites3/korsloekke/topmenu/klubber/blaa mandag" target="_blank"><strong>Blå mandag 2014 står for døren<!--comment--></strong><span>Ungdomsskolerne i Odense holder hvert år Blå Mandag- arrangementer for årets konfirmander. <!--comment--></span></a></div></li><li class="img-large"><a style="width:197px;height:117px;display:block;" class="1" href="/subsites/oplevodense/topmenu/kalender/festivaler-og-events/forskningens-doegn" target="_blank"><img src="~/media/Billedslider/Forsiden/forsk brian 197x117.ashx?mw=197&amp;h=117&amp;as=0" alt="Forskningens Døgn i Odense 24. - 26. april 2014" /><!--comment--></a><!--comment--><div><a style="text-decoration:none;" class="carousel-link" href="/subsites/oplevodense/topmenu/kalender/festivaler-og-events/forskningens-doegn" target="_blank"><strong>Forskningens Døgn i Odense 24. - 26. april 2014<!--comment--></strong><span>Oplev Danmarks videnskabsfestival i Odense - det er nørdet, sjovt og mega spændende!<!--comment--></span></a></div></li></ul><a href="#" class="link-next" title="Næste">next</a></div></div><div class="bottom-border"><!--comment--></div></div>
+		    <!-- spot -->
+            
+                
+            
+		</div>
+		<!-- content -->
+		<div class="spot data-box"><div class="heading"><a name="maincontent" id="maincontent" href="#maincontent" title="Hovedindhold"></a><h1>Trafik i Odense: Følg med i hvad, der sker i byen<strong></strong></h1></div><div class="holder"><p>Brug ruteplanl&aelig;ggeren, l&aelig;s om projekter og planer for trafikken i Odense i de kommende &aring;r p&aring; hjemmesiden <a href="http://www.odense.dk/trafikiodense" target="_blank"><strong>www.odense.dk/trafikiodense</strong></a><strong>.</strong></p></div><div class="bottom-ruler"></div><!----></div>
+	</div>
+	<!-- sidebar -->
+	<div id="sidebar">
+		<!-- spot container - white -->
+		<div class="white spot-container"><div class="wrap"><div class="frame"><h1>Selvbetjening</h1><div class="holder"><ul class="sidebar-nav selvservice-list"><li><a href="/site config/selvbetjeningslinks/saf/pas?linktype=selvbetjBoks&amp;calltoaction=false&amp;onpage=true">Pas</a></li><li><a href="/site config/selvbetjeningslinks/saf/flytning?linktype=selvbetjBoks&amp;calltoaction=false&amp;onpage=true">Flytning</a></li><li><a href="/site config/selvbetjeningslinks/saf/bestil gult sundhedskort?linktype=selvbetjBoks&amp;calltoaction=false&amp;onpage=true">Sundhedskort</a></li><li><a href="/site config/selvbetjeningslinks/buf/skriv dit barn op?linktype=selvbetjBoks&amp;calltoaction=false&amp;onpage=true">Skriv dit barn op</a></li><li><a href="/site config/selvbetjeningslinks/bkf/pb/byggeri/byggetilladelse?linktype=selvbetjBoks&amp;calltoaction=false&amp;onpage=true">Byggetilladelse</a></li></ul></div></div></div></div>
+		
+	    <div class="spot-hold">
+            <!-- spot -->
+            
+                <div class="spot-smallimage-container"><a disable-web-editing="true" href="/topmenu/selvbetjening/digital post til borgere/vejledning i digital post/vejledning i oprettelse af digital post"><img src="~/media/Spots/Borger/Voksne/Digital postspot.ashx?mw=215&amp;" alt="Digital Post" /><div class="text"><div class="link arrow"><p>Tilmeld dig <br />
+Digital Post</p></div></div></a></div><div class="spot-smallimage-container"><a disable-web-editing="true" href="/topmenu/kommunen/okonomi og statistik/oekonomi/regnskab/aarsberetning 2013"><img src="~/media/Spots/Kommunen/Aarsberetning 2013/rsrapport-spot_edited-1.ashx?mw=215&amp;" alt="Årsberetning 13" /><div class="text"><div class="link arrow"><p>&nbsp;</p></div></div></a></div><div class="spot-container"><h1>Oplev Odense</h1><div class="holder"><a disable-web-editing="true" title="Link til oplev.odense.dk" href="/subsites/oplevodense" target="_blank"><img src="~/media/Spots/Borger/KulturFritid/oplevodense/Oplev-Odense-Farvergaarden-215x106-.ashx?mw=215&amp;h=106" alt="Oplev Odense" /></a>Din indgang til <a href="/subsites/oplevodense">oplevelser og kultur i Odense</a>.</div></div><div class="spot-container"><h1>Job i Odense</h1><div class="holder"><a href="/topmenu/borger/studerende/studiejob i odense">Studiejob <br />
+</a><a href="/job" title="Link til kommunens hjemmeside Dr&oslash;mmejobs" target="_blank">Job hos kommunen</a></div></div>
+            
+            
+        </div>
+	</div>
+</div>
+<!-- A side -->
+<div class="aside">
+    
+        <div class="headline"><a name="maincontent" id="maincontent" href="#maincontent" title="Hovedindhold"></a><span class="top">
+                     <!----></span><div class="center"><h1><strong>Nyheder</strong></h1></div></div><div class="news"><a class="nyhed" disable-web-editing="true" href="/presse/nyheder/nyheder 2014/odense mod social dumping"><img src="~/media/Billeder til topnyheder/modsocialdumping_215x171.ashx?mw=215" alt="" width="215" height="171" disable-web-editing="true" /></a><ul class="news-list"><li><span class="date">21.03.2014</span><p><strong><a class="nyhed" disable-web-editing="true" href="/presse/nyheder/nyheder 2014/odense mod social dumping">Odense mod social dumping - byen skal bygges på ordentlige vilkår</a></strong></p></li><li><span class="date">14.04.2014</span><p><a class="nyhed" disable-web-editing="true" href="/presse/nyheder/nyheder 2014/hjaelp odense symfoniorkester og vind et slotsophold">Hjælp Odense Symfoniorkester og vind et slotsophold</a></p></li><li><span class="date">14.04.2014</span><p><a class="nyhed" disable-web-editing="true" href="/presse/pressemeddelelser/pressemeddelelser 2014/sms-naar-der-graves-i-vejen">SMS når der graves i vejen</a></p></li></ul><a class="archive" disable-web-editing="true" href="/presse/nyheder/nyheder 2014"><strong>Læs flere nyheder</strong></a></div>
+    
+	<!-- spot -->
+    
+        <div class="spotEq"><div class="spot-container"><h2>Odense i fremtiden</h2><div class="holder"><a class="billedelink" disable-web-editing="true" title="Link til odense.dk/storby" href="http://odense.dk/storby" target="_blank"><img src="~/media/Spots/Subsites/Oplev Odense/Forside/Dansk-Storby-215x106.ashx?mw=215&amp;h=106" alt="Odense i fremtiden" /></a>Mange store byggeprojekter vil&nbsp;pr&aelig;ge bybilledet i Odense frem til 2020 - l&aelig;s om dem p&aring; <a href="http://www.odense.dk/storby" title="L&aelig;s om udviklingen fra stor dansk by til dansk storby." target="_blank">www.odense.dk/storby</a>.</div><div class="bottomruler"></div></div></div>
+    
+	<div class="bottom-ruler"></div>
+</div><script type="text/javascript"></script>
+                </form>
+            </div>		
+		</div>
+	</div>
+    <div id="footer">
+        <!--googleoff: snippet-->
+        <div class="holder"><address>Odense Kommune - Flakhaven 2 - 5000 Odense C - Telefon: 66 13 13 72 - Fax: 66 13 92 09 - CVR-nummer: 35209115 
+			</address></div>
+        <!--googleon: snippet-->			
+    </div>
+    <script type="text/javascript">
+          var pkBaseURL = "https://piwik.odense.dk/";
+          document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+          try {
+          var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
+          piwikTracker.setCustomVariable (1, "VisitorType", "External", "visit");
+          piwikTracker.setCustomVariable (1, "SiteId", "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}", "page");
+          piwikTracker.trackPageView();
+          piwikTracker.enableLinkTracking();
+          } catch( err ) {}
+        </script><noscript><p><img src="https://piwik.odense.dk/piwik.php?idsite=3&amp;rec=1&amp;url=/&amp;_cvar=%7B%221%22%3A%5B%22VisitorType%22%2C%22External%22%5D%7D" style="border:0" alt="" /></p></noscript>
+    <script src="/scripts/KommuneIndex/include1.js" type="text/javascript"><!--for IE--></script><script src="/scripts/KommuneIndex/dcs_tag.js" type="text/javascript"><!--for IE--></script><noscript><div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://visionize10.visionize.dk/dcsz30a0t10000c9rk164ybvt_8y3d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2" /></div></noscript>
+    <script type="text/javascript" src="//ssl.siteimprove.com/js/siteanalyze_293239.js">//</script>
+    <script src="/scripts/web11/cookiesamtykke.js" type="text/javascript"></script>
+</body>
+</html>
